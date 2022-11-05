@@ -6,3 +6,5 @@
 - context api - to share code in the application
 - OAuth - autentication strategy]
 - nativeBase
+- react navigation = config routes to the page 
+- axios - integrate with back end
