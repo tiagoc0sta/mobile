@@ -10,8 +10,7 @@ Technologies used:
 - axios - integrate with back end
 
 
-
-
+- To run : npx expo start
 
 
 
